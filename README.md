@@ -4,7 +4,7 @@ This is a simple Python script to automate the process of running the [Dart Code
 ## How to use
 1. Clone the repository
     ```bash
-    git clone https://github.com/shebnik/dart_code_metrics.git
+    git clone https://github.com/shebnik/flutter_metrics.git
     ```
 
 2. Follow the `Step 1` and `Step 3` in [DCM Quick Start Guide](https://dcm.dev/docs/quick-start/). For free license key visit [DCM Pricing](https://dcm.dev/pricing/).
