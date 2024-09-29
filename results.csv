@@ -1,0 +1,5 @@
+URL,SLOC (Source Lines of Code),NOC (Number of Classes),NOM (Number of Methods),DIT (Depth of Inheritance Tree),RFC (Response for Class),CBO (Coupling Between Object Classes),WMC (Weighted Methods per Class)
+https://github.com/flutter/photobooth,8219,269,391,271,452,88,558
+https://github.com/flutter/pinball,11181,390,589,390,657,122,782
+https://github.com/flutter/io_flip,17860,390,683,379,888,142,1311
+https://github.com/VGVentures/io_crossword,18060,438,861,419,935,109,1290

@@ -15,7 +15,7 @@ This is a simple Python script to automate the process of running the [Dart Code
     ```
 
 ## Output
-The output is stored in a CSV file named `output.csv`. The columns are:
+The output is stored in a CSV file named `results.csv`. The columns are:
 - URL of Repository
 - SLOC - [Source Lines of Code](https://dcm.dev/docs/metrics/function/source-lines-of-code/)
 - NOC - [Number of Classes](https://dcm.dev/docs/metrics/#class)
